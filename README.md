@@ -1,1 +1,1 @@
-# durga-portfolio
+This portfolio showcases my work as a Python Developer with a strong focus on Data Engineering and Backend Development. The projects here reflect practical experience in building, moving, transforming, and serving data through real systems.
